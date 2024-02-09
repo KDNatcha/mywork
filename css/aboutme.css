@@ -1,0 +1,65 @@
+body{
+    width: 100%;
+    box-sizing: border-box;
+}
+.container{
+    width: 90%;
+    height: auto;
+    padding: 20px;
+    background-color: #E6B2CA;
+    margin:0 auto;
+    text-align: justify;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px #930546;
+    border-radius: 5px;
+}.topic{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 1.2rem;
+    padding:5px 0;
+}#my-profile{
+    max-width: 300px;
+    width: 50%;
+    height: auto;
+    border: 2px double #930546;
+
+}.data-lv1{
+    text-align: justify;
+    margin-left: 20px;
+    
+}.data-lv1 li{
+    list-style: none;
+    text-indent: 10px;
+}.data-lv2 li{
+    text-indent: 30px;
+    
+}.data-lv2{
+    padding-bottom: 10px;
+}.sub-topic > div{
+    margin-bottom: 5px;
+}.profile{
+    margin-top: 5px;
+    text-align: center;
+}.myinfo{
+    width: max-content;
+    margin: 0 auto;
+}.sub-topic{
+    text-align: center;
+    margin-top: 10px;
+}footer{
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #040D33;
+    clear: both;
+}
+@media screen and (max-width:760px){
+    .container{
+        width: max-content;
+    }
+    .data-lv1{
+        margin-left: 10px;
+        text-align: left;
+        width: max-content
+    }
+}

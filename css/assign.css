@@ -1,0 +1,33 @@
+body{
+    height: auto;
+}
+.container{
+    width: 90%;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: justify;
+    background-color: #E6B2CA;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #930546;
+    margin-top: 20px;
+}
+.link a{
+    padding: 5px 10px;
+    background-color: #930546;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+
+}#assign-pic01, #assign-pic02{
+    width: 300px;
+    width: 50%;
+    height: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 5px;
+}.sub-topic{
+    text-align: center;
+    margin: 5px 0;
+}footer{
+    position: relative;
+}
