@@ -1,0 +1,24 @@
+.top-nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.top-nav ul li a:visited {
+    color: white;
+}
+
+.top-nav ul li a:hover {
+    background-color: #1736c1;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+}
+
+.top-nav ul li a:active {
+    background-color: #A4ACCC;
+    width: 100%;
+    height: 100%;
+}.topic{
+    font-weight: bold;
+    font-size: large;
+}

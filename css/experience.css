@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}body{
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.container-2{
+    width: 90%;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: justify;
+    background-color: #E6B2CA;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #930546;
+    margin-top: 20px;
+    
+}.box-4, .box-5{
+    font-weight: bold;
+    padding: 10px 0;
+    font-size: 1.2rem;
+}
+.content-1, .content-2{
+    text-indent: 10px;
+    font-weight: normal;
+    font-size: 1rem;
+}ol li{
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
